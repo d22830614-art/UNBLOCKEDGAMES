@@ -1,0 +1,66 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "category": "Puzzle",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/250"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "category": "Arcade",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/250"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "The classic snake game. Eat apples, grow longer.",
+    "category": "Classic",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://picsum.photos/seed/snake/400/250"
+  },
+  {
+    "id": "doodle-jump",
+    "title": "Doodle Jump",
+    "description": "Jump as high as you can in this endless climber.",
+    "category": "Arcade",
+    "url": "https://doodlejudge.github.io/doodlejump/",
+    "thumbnail": "https://picsum.photos/seed/jump/400/250"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "Tap to fly through the pipes.",
+    "category": "Arcade",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/250"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball down a steep slope while avoiding obstacles.",
+    "category": "Speed",
+    "url": "https://slopegame.io/",
+    "thumbnail": "https://picsum.photos/seed/slope/400/250"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "Click the cookie to bake more cookies.",
+    "category": "Incremental",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/250"
+  },
+  {
+    "id": "tetris",
+    "title": "Classic Tetris",
+    "description": "The world-famous puzzle game.",
+    "category": "Puzzle",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/250"
+  }
+]
